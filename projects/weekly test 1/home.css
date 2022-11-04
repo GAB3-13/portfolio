@@ -1,0 +1,142 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.head
+{
+    height: 100px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 570px;
+}
+.clicks
+{
+    margin-top: 10px;
+    text-align: center;
+    height: 100px;
+    background-color: white;
+}
+#q
+{
+    display: inline-block;
+    color: black;
+    text-align: center;;
+    margin: 20px 30px;
+}
+#p1
+{
+    background: #fff;
+    color: #000;
+    display: inline-block;
+    font-family: poller_oneregular;
+    font-size: 20px;
+    font-weight: normal;
+    margin: 0 0 18px;
+    padding: 23px 27px 20px;
+}
+
+#p2{
+    background: #252525;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    margin: 7px 0;
+    padding: 12px 27px;
+}
+#p3
+{
+    background: #252525;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    margin: 7px 0;
+    padding: 12px 27px;
+}
+#p4
+{
+    background: #252525;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    margin: 7px 0;
+    padding: 12px 27px;
+} 
+#read
+{
+    background: #0ba39c;
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    margin: 15px 0 0;
+    padding: 26px 27px 22px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+#him
+{
+    border: 0;
+    display: block;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    position: relative;
+}
+.txt
+{
+    left: 53%;
+    margin-left: -490px;
+    margin-top: 0px;
+    padding: 0 0 0 440px;
+    position: absolute;
+    top: 50%;
+    text-align: left;
+    width: 990px;
+}
+.middle
+{
+    text-align: left;
+    height: 600px;
+}
+.bottom
+{
+    height: 300px;
+    background-color: white;
+    width: 1000px;
+    margin: 0 auto;
+   overflow: hidden; 
+}
+#im
+{
+    display:inline-block;
+
+    border: 3px solid black;
+}
+#fig
+{
+    margin: 0 10px;
+    display: inline-block;
+    text-align: center;
+}
+.footer
+{
+    clear: both;
+    width: 100%;
+    background-color: rgb(65, 61, 61);
+    height: 150px;
+}
+.trade
+{
+    display: inline-block;
+    color: white;
+    margin-top: 75px;
+    margin-left: 275px;
+}
+.fpic
+{
+    float: right;
+    margin-top: 50px;
+    margin-right: 100px;
+}

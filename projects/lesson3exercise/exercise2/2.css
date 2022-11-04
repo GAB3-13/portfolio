@@ -1,0 +1,109 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header
+{
+    display: flex;
+min-height: 200px;
+
+padding-left: 300px;
+padding-right: 300px;
+padding-top:  25px;
+}
+.both
+{
+    background-image: url(../exercise2/img/backimg.jpg);
+background-attachment:scroll;
+background-position: top;
+}
+.wrapper
+{
+margin: auto;
+max-width: rem-calc(1200);
+}
+.box1a
+{
+    width: 700px; 
+      
+    font-family: monospace;
+    font-size: 25px;
+    color: white;
+}
+.box2a
+{
+    align-content:flex-start;
+    width: 600px;   
+    font-family: monospace;
+    font-size: 20px;
+    color: white;
+}
+.box21a{
+    align-self: flex-end;
+  
+}
+.box3a
+{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    min-height: 300px;
+    color: white;
+    /* background-color: ;   */
+}
+.reg
+{
+    border: 2px solid white;
+    padding: 5px;
+    margin-top: 10px;
+}
+.middle
+{
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+min-height: 500px;
+}
+.box1b
+{
+ width: 300px; 
+ background-color: rgba(50, 44, 44, 0.578);  
+}
+.box2b
+{
+    width: 300px; 
+    background-color: rgba(50, 44, 44, 0.578);  
+    
+}
+.box3b
+{
+    width: 300px; 
+    background-color:rgba(50, 44, 44, 0.578);  
+    
+}
+.foot
+{
+    display: flex;
+    flex-direction:row;
+    height: 100px;
+    width: auto;
+    background-color: black;
+    color: white;
+    align-items: center;
+    
+    
+}
+
+.ft1
+{
+    float: left;
+    background-color: black;
+    margin-left: 400px;
+}
+.ft2
+{
+ margin-left: 400px;
+
+}

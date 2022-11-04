@@ -1,0 +1,76 @@
+.head
+{
+    height: 100px;
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 570px;
+}
+.clicks
+{
+    margin-top: 10px;
+    text-align: center;
+    height: 100px;
+    background-color: white;
+}
+#q
+{
+    display: inline-block;
+    color: black;
+    text-align: center;;
+    margin: 20px 30px;
+}
+.capnpic
+{
+    text-align: center;
+}
+#must
+{
+    color: white;
+    display: inline-block;
+    margin: 5px 10px;
+    border: 2px solid black;
+    background-color: black;
+
+}
+#photographer
+{
+    
+    margin: 20px auto;
+    border: 3px solid black;
+}
+h3
+{
+    text-align: center;
+    
+}
+#textt
+{
+width: 600px;
+margin-left: 30% ;
+margin-right: 30%;
+}
+#main
+{
+    display:block;
+    margin: 0 auto;
+    text-align: center;
+}
+.footer
+{
+    clear: both;
+    background-color: rgb(65, 61, 61);
+    height: 150px;
+}
+.trade
+{
+    display: inline-block;
+    color: white;
+    margin-top: 75px;
+    margin-left: 275px;
+}
+.fpic
+{
+    float: right;
+    margin-top: 50px;
+    margin-right: 100px;
+}

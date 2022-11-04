@@ -1,0 +1,52 @@
+
+body{
+    background-color: black;
+color: white;
+}
+
+
+
+#zip
+{
+    width: 40px;
+}
+#him
+{
+    width: 400px;
+    float: right;
+    margin: 5px;
+}
+.imgContainer {
+    position: relative;
+  }
+
+  img{
+    width: 150px;
+  }
+  #ab
+  {
+    font-size: larger;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  #gal
+  {
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  #walk
+  {
+    
+    width: 100px;
+    
+  }
+  #bio
+  {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+  }
+  #rik
+  {
+   font-family: "Brush Script MT", cursive; font-size: 44px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; } h3 { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px; } p { font-family: "Brush Script MT", cursive; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: "Brush Script MT", cursive; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: "Brush Script MT", cursive; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5714px; 
+  }

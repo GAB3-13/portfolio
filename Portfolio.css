@@ -1,0 +1,92 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.sidecontainer
+{
+    position: absolute;
+    top: 10%;
+    
+    left: 39%;
+    
+    display: flex;
+    text-align: center;
+    margin: 100px;
+    border:  10px ridge gray ;
+    width: 15%;
+    height: auto;
+    padding: 30px 0;
+    color: white; 
+}
+.first
+{
+    
+    font-size: 40px;
+    position: absolute;
+    color:rgba(249, 249, 249, 0.588);
+    left: 48%;
+    top: 5%;
+    animation: fadeIn 5s ease-in-out infinite;
+    
+}
+@keyframes fadeIn
+{
+    0% {opacity: 0;}
+    100%{opacity: 1;}
+}
+@keyframes fadeOut
+{
+ 100% {opacity: 1;} 
+    0%{opacity: 0;}
+}
+#link
+{
+    transition: width 2s, height 2s,  transform 2s;
+}
+#link:hover
+{
+transform: rotate(360deg);
+}
+#logo
+{
+    width: 150px;
+    height: 150px;
+    
+}
+header
+{
+    align-self: center;
+    margin: 0 auto;
+    line-height: 40px;
+}
+.links
+{
+   
+   color: white;
+}
+a:link
+{
+    text-decoration: none;
+}
+a:visited
+{
+    text-decoration: none;
+
+}
+a{
+    color: white;
+}
+.whois
+{
+
+    width: 200px;
+    height:auto;
+    color: white;
+  position: absolute;
+  left: 50%;
+  top: 25%;
+} 
